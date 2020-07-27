@@ -14,6 +14,7 @@
  */
 
 #include <iostream>  // allows program to output data to the screen
+#include <cassert>
 
 template<typename T>
 struct MyStruct {
